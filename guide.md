@@ -81,4 +81,8 @@ If you are interested in receiving a free tree, sign up today!
     transition: background-color 0.1s ease
     box-sizing: border-box
     border-bottom: 1px solid #389d70
+.button:hover
+  text-decoration: none
+  background-color: #4abf8a;
+  color: #fff
 </style>
