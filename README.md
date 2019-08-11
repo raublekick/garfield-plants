@@ -26,7 +26,7 @@ The Garfield neighborhood has a unique opportunity to partner with the Sikh Comm
           <p class="card-text">
             A guide to qualification, selection, planting, and more.<br/>
           </p>
-          <a class="button mt-auto" href="/guide">Guide →</a>
+          <a class="button mt-auto" href="/guide/">Guide →</a>
         </div>
       </div>
     </div>
@@ -37,7 +37,7 @@ The Garfield neighborhood has a unique opportunity to partner with the Sikh Comm
           <p class="card-text">
             Something about Spanish speakers...<br/>
           </p>
-          <a class="button mt-auto" href="/es">En español →</a>
+          <a class="button mt-auto" href="/es/">En español →</a>
         </div>
       </div>
     </div>
