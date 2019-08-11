@@ -26,7 +26,7 @@ The Garfield neighborhood has a unique opportunity to partner with the Sikh Comm
           <p class="card-text">
             A guide to qualification, selection, planting, and more.<br/>
           </p>
-          <a class="button mt-auto" href="/guide/">Guide →</a>
+          <a class="button mt-auto" href="/guide.html">Guide →</a>
         </div>
       </div>
     </div>

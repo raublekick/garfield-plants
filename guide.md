@@ -62,7 +62,7 @@ Do you rent and want to participate? Send this information to your landlord; if 
 ## Pre-requisites
 Blue Stake is a free and legally required service that will be performed to locate all utility lines or easements before digging. You must contact 811 / Arizona Blue Stake (<http://www.azbluestake.com/>) at between October 12th and October 23rd. 
 
-<a href='/bluestake' class='button'>Blue Stake Information →</a>
+<a href='/bluestake.html' class='button'>Blue Stake Information →</a>
 
 # Follow-up
 We will contact you about X, Y, Z two weeks prior to the planting date to confirm: 
