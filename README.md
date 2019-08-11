@@ -1,21 +1,50 @@
 ---
 home: true
 # heroImage: /hero.jpg
-actionText: Get Started →
-actionLink: /guide
-features:
-- title: Get a tree
-  details: Free trees.
-- title: Volunteer
-  details: Help on tree planting day.
-- title: Another thing
-  details: But wait, there's more... 
 footer: Copyright © 2019-present Garfield Organization
 ---
 
-<div class="container mb-3" style="text-align:center">
-  <a class="button" href="/es">En español →</a>
+The Garfield neighborhood has a unique opportunity to partner with the Sikh Community in Phoenix to celebrate 550 years of the Sikh faith. As part of this year-long celebration, the local Sikh Community is donating 550 trees to the City of Phoenix. The Garfield neighborhood has an opportunity to receive many of these trees.
+
+<div class="container">
+  <div class="row mt-2 mb-2">
+    <div class="col-sm-4">
+      <div class="card" style="height:100%">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Sign-up</h5>
+          <p class="card-text">
+            To sign up, click here:<br/>
+          </p>
+          <a href='https://docs.google.com/forms/d/e/1FAIpQLSdSvuDttkLXasnhSrp7QOiP7djPwWJ_-DfRNR8BemYqYaoMgQ/viewform?usp=sf_link' target='_blank' class='button  mt-auto'>Sign-up →</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card" style="width: 18rem;">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Guide</h5>
+          <p class="card-text">
+            A guide to qualification, selection, planting, and more.<br/>
+          </p>
+          <a class="button mt-auto" href="/guide">Guide →</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card" style="width: 18rem;">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">En Español</h5>
+          <p class="card-text">
+            Something about Spanish speakers...<br/>
+          </p>
+          <a class="button mt-auto" href="/es">En español →</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+
 
 <style lang='stylus'>
 .button 
