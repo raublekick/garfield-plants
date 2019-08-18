@@ -40,7 +40,7 @@ Anyone who owns property in the Garfield neighborhood which has space to plant t
         <div class="card-body">
           <h5 class="card-title">Desert Fern</h5>
           <p class="card-text">
-            Low maintenance, medium to low water use, no mess, nice structure/shape, evergreen.
+            Native, low water usage and heat tolerant. Can drop pods and leaves. A good choice for under power lines.
             <div>
               <span class="badge badge-danger m-1">High maintenance</span><span class="badge badge-success m-1">Low water</span>
             </div>
@@ -56,7 +56,7 @@ Anyone who owns property in the Garfield neighborhood which has space to plant t
         <div class="card-body">
           <h5 class="card-title">Palo Brea</h5>
           <p class="card-text">
-            Medium maintenance. Little mess. Low water use. May have yellow foliage and white flowers in spring.
+            Medium maintenance. Little mess. Low water use. It has thorns and green bark. May have yellow foliage and white flowers in spring.
             <div>
               <span class="badge badge-success m-1">Low water</span><span class="badge badge-warning m-1">Some maintenance</span>
             </div>
@@ -72,7 +72,7 @@ Anyone who owns property in the Garfield neighborhood which has space to plant t
         <div class="card-body">
           <h5 class="card-title">Acacia Aneura (Mulga)</h5>
           <p class="card-text">
-            Low water usage and high heat tolerance. Very little maintance required. Unique silver and blue-green leaves.
+            Low water usage and high heat tolerance. Very little maintance required. Unique silver and blue-green leaves. A good choice for under power lines.
             <div>
               <span class="badge badge-success m-1">Low water</span><span class="badge badge-success m-1">Low maintenance</span><span class="badge badge-success m-1">Beginner friendly</span>
             </div>
