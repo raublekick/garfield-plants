@@ -1,10 +1,12 @@
 ---
 home: true
 # heroImage: /hero.jpg
-footer: Copyright © 2019-present Garfield Organization
+# footer: Copyright © 2019-present Garfield Organization
 ---
 
 The Garfield neighborhood has a unique opportunity to partner with the Sikh Community in Phoenix to celebrate 550 years of the Sikh faith. As part of this year-long celebration, the local Sikh Community is donating 550 trees to the City of Phoenix. The Garfield neighborhood has an opportunity to receive many of these trees.
+
+<contact/>
 
 <div class="container">
   <div class="row mt-2 mb-2">
@@ -43,7 +45,7 @@ The Garfield neighborhood has a unique opportunity to partner with the Sikh Comm
     </div>
   </div>
 </div>
-
+<Footer/>
 
 
 <style lang='stylus'>

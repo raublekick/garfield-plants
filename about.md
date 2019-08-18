@@ -3,6 +3,7 @@ title: About
 lang: en-US
 ---
 # About
+<contact/>
 
 ## The Garfield Neighborhood
 The Garfield neighborhood is in downtown Phoenix. 
@@ -12,3 +13,5 @@ A collection of neighbors bettering their neighborhood.
 
 ## The Phoenix Sikh Community
 Offering a generous donation of trees to our neighborhood.
+
+<Footer/>

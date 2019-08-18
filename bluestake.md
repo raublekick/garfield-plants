@@ -3,6 +3,7 @@ title: Blue Stake Guide
 lang: en-US
 ---
 # How to Blue Stake
+<contact/>
 
 ## What is Arizona 811 / Blue Stake
 
@@ -24,3 +25,5 @@ The online form does require you to have an email address.  You'll enter your ad
 According to Arizon 811:
 
 > Underground facility locators will respond either by marking the location of their underground facilities in the corresponding color code or by issuing a "No Conflict" response. "No Conflict" means the facility operator does not own any underground facilities at your dig site. A "No Conflict" can be issued by phone or e-mail, or could be marked on site with an "N," a "No" or an "OK" next to the facility’s initials in the corresponding color for the specific utility (Examples: "N/APS," "No SRP," or "TEP OK").
+
+<Footer/>

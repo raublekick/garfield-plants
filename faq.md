@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 lang: en-US
 ---
 # Frequently Asked Questions
+<contact/>
 
 ## What is the Garfield tree planting initiative?
 Garfield Neighborhood and the Sikh Community are teaming up to plant two hundred FREE TREES to help build a pedestrian canopy in our neighborhood.
@@ -26,6 +27,8 @@ Trees can be picked up at the Garfield Community Garden located at [1022 E Garfi
 Blue Stake is a free and legally required service that will be performed to locate all utility lines or easements before digging. You must contact 811 / Arizona Blue Stake (<http://www.azbluestake.com/>) at between October 12th and October 23rd. 
 
 <a href='/bluestake' class='button'>Blue Stake Information →</a>
+
+<Footer/>
 
 <style lang='stylus'>
 .button 

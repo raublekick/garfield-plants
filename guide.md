@@ -5,6 +5,8 @@ lang: en-US
 
 # Sign-up Guide
 
+<contact/>
+
 ## Qualification
 Anyone who owns property in the Garfield neighborhood which has space to plant the trees by the sidewalk. Trees must be planted in the right-of-way between the sidewalk and the street if that’s big enough, otherwise in the yard right next to the sidewalk. If you rent, please let your landlord know about this opportunity!
 
@@ -110,7 +112,7 @@ You also agree to contact 811 / Arizona Blue Stake (<http://www.azbluestake.com/
 If you are interested in receiving a free tree, sign up today! We are also looking for volunteers to assist in delivering and unloading trees as well as digging planting holes.
 
 <a href='https://docs.google.com/forms/d/e/1FAIpQLSdSvuDttkLXasnhSrp7QOiP7djPwWJ_-DfRNR8BemYqYaoMgQ/viewform?usp=sf_link' target='_blank' class='button'>Sign-up →</a>
-
+<Footer/>
 <style lang='stylus'>
 .button 
     display: inline-block
