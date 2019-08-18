@@ -13,6 +13,8 @@ Choose one of two easy options:
 * CALL 811 Mon - Fri from 6 a.m. to 5 p.m.
 * Create a ticket online at <http://www.azbluestake.com/>
 
+<div class="alert alert-warning">Please wait to order a Blue Stake until October 14th - 21st!  If you order it too early it won't be valid by the planting date.</div>
+
 ## What do I put on the form?
 The online form does require you to have an email address.  You'll enter your address, where on the lot to put the trees (typically "Front of Lot").  Step 6 has a lot of fields, here's what was applicable to one of our homeowners (please verify the answers are right for you):
 
