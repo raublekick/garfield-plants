@@ -1,12 +1,6 @@
 module.exports = {
   themeConfig: {
-    sidebar: [
-      '/',
-      '/about',
-      '/guide',
-      '/bluestake',
-      '/faq'
-    ],
+    
     locales: {
       '/' : {
         label: "English",
@@ -16,16 +10,30 @@ module.exports = {
           { text: 'Guide', link: '/guide/' },
           { text: 'FAQ', link: '/faq/' },
           { text: 'Community', link: '/community' },
-        ]
+        ],
+        sidebar: [
+          '/',
+          '/about',
+          '/guide',
+          '/bluestake',
+          '/faq'
+        ],
       },
       '/es/': {
         label: "Español",
         nav: [
           { text: 'Home', link: '/es/' },
-          { text: 'About', link: '/es/about/' },
-          { text: 'Guide', link: '/es/guide/' },
+          { text: 'About', link: '/es/about' },
+          { text: 'Guide', link: '/es/guide' },
           { text: 'FAQ', link: '/es/faq/' },
           { text: 'Community', link: '/es/community' },
+        ],
+        sidebar: [
+          '/es',
+          '/es/about',
+          '/es/guide',
+          '/es/bluestake',
+          '/es/faq'
         ],
       }
     }
