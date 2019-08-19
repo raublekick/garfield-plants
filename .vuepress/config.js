@@ -29,7 +29,7 @@ module.exports = {
           { text: 'Community', link: '/es/community' },
         ],
         sidebar: [
-          '/es',
+          '/es/',
           '/es/about',
           '/es/guide',
           '/es/bluestake',
