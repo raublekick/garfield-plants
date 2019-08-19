@@ -3,28 +3,28 @@ title: Blue Stake Guide
 lang: en-US
 ---
 
-# How to Blue Stake
+# Llame al 811 Antes de Excavar
 <contact/>
 
-## What is Arizona 811 / Blue Stake
+## ¿Que es Arizona 811 / Blue Stake?
 
-This is a free service where utilities come out and mark where their lines run.  You are required by Arizona law to do this on any project that involves digging (like planting trees!).
+Este es un servicio gratis donde servicios públicos salen y marcan dónde corren sus líneas de utilidades (gas, electricidad, o agua). La ley de Arizona le exige que haga esto en cualquier proyecto que implique excavar (como plantar arboles!).
 
-## How do I start?
-Choose one of two easy options:
-* CALL 811 Mon - Fri from 6 a.m. to 5 p.m.
-* Create a ticket online at <http://www.azbluestake.com/>
+## ¿Como Empiezo?
+Elige una de las dos opciones fáciles :
+* Llama a 811 lunes a viernes de 6 a.m. a 5 p.m.
+* Crear una solicitud por internet <http://www.azbluestake.com/>
 
-<div class="alert alert-warning">Please wait to order a Blue Stake until October 14th - 21st!  If you order it too early it won't be valid by the planting date.</div>
+<div class="alert alert-warning"> Por favor espera a llamar 811 hasta Octubre 14-21! Si llama mas temprano que Octubre 14 su solicitud no será válida para la fecha de plantar. </div>
 
-## What do I put on the form?
-The online form does require you to have an email address.  You'll enter your address, where on the lot to put the trees (typically "Front of Lot").  Step 6 has a lot of fields, here's what was applicable to one of our homeowners (please verify the answers are right for you):
+## ¿Qué Pongo en el Formulario?
+El formulario en línea requiere que tenga una dirección de correo electrónico. Escribirás su dirección de domicilio, en qué parte del lote quiere poner los árboles (típicamente "en frente del lote"). El paso 6 tiene muchas preguntas, esto es lo que era aplicable a uno de nuestros propietarios de casa (por favor verifique que las respuestas sean correctas para su propiedad):
 
 ![Step #6 at Arizona 811](../img/Form06.png)
 
-## What happens then?
-According to Arizon 811:
+## ¿Que Pasa Despues?
+De acuerdo con Arizona 811:
 
-Underground facility locators will respond either by marking the location of their underground facilities in the corresponding color code or by issuing a "No Conflict" response. "No Conflict" means the facility operator does not own any underground facilities at your dig site. A "No Conflict" can be issued by phone or e-mail, or could be marked on site with an "N," a "No" or an "OK" next to the facility’s initials in the corresponding color for the specific utility (Examples: "N/APS," "No SRP," or "TEP OK").
+Los localizadores de instalaciones subterráneas responderán marcando la ubicación de sus instalaciones subterráneas en el código de color correspondiente o emitiendo una respuesta de "No Conflict"/"No Conflicto". "No Conflicto" significa que la Compañia de Utilidades (agua, gas, o electricidad) no posee ninguna instalación subterránea en su sitio de excavación. Un "No Conflicto" puede darse por teléfono o correo electrónico, o puede marcarse en el sitio con un "N," un "No" o un "OK" junto a las iniciales de la instalación en el color correspondiente para la utilidad específica (Ejemplos: "N/APS," "No SRP," or "TEP OK").
 
 <Footer/>

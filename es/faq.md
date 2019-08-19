@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 lang: en-US
 ---
-# Frequently Asked Questions
+# Preguntas Frequentes
 <contact/>
 
 ## What is the Garfield tree planting initiative?
