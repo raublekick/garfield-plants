@@ -22,11 +22,12 @@ Trees can be picked up at the Garfield Community Garden located at [1022 E Garfi
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d416.0840550166744!2d-112.06033062160766!3d33.4578395525165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b13e4c4ee41c1%3A0x8618ef33b7b18eef!2sGarfield+Community+Garden!5e0!3m2!1sen!2sus!4v1566150316405!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## What if I need assistance transporting and planting my tree(s)?
+Reach out to us at <a href='mailto:garfield.plants@gmail.com'>garfield.plants@gmail.com</a> or <a href='tel:602-759-0156'>(602) 759-0156</a> and let us know what you need help with.  Please also go ahead and fill out the signup sheet, just make sure the email and/or phone you put there matches how you're contacting us.  Once we have both we'll confirm the details with you.
 
 ## What is Blue Stake?
-Blue Stake is a free and legally required service that will be performed to locate all utility lines or easements before digging. You must contact 811 / Arizona Blue Stake (<http://www.azbluestake.com/>) at between October 12th and October 23rd. 
+Blue Stake is a free and legally required service that will be performed to locate all utility lines or easements before digging. You must contact 811 / Arizona Blue Stake (<http://www.azbluestake.com/>) at between October 14th and October 21st. 
 
-<a href='/bluestake' class='button'>Blue Stake Information →</a>
+<a href='/bluestake.html' class='button'>Blue Stake Information →</a>
 
 <Footer/>
 
