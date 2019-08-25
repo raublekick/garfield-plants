@@ -2,16 +2,16 @@
 title: About
 lang: en-US
 ---
-# About
+# Detalles
 <contact/>
 
-## The Garfield Neighborhood
-The Garfield neighborhood is in downtown Phoenix. 
+## El Vecindario de Garfield
+El Vecindario de Garfield esta localizada en el centro de Phoenix. 
 
-## The Garfield Organization
-A collection of neighbors bettering their neighborhood.
+## La Organización de Garfield
+Una colección de vecinos intentando de mejorar el Vecindario de Garfield.
 
-## The Phoenix Sikh Community
-Offering a generous donation of trees to our neighborhood.
+## La Comunidad Sikh de Phoenix
+La Comunidad Sikh esta celebrando 550 años de su fe. Para conmemorar esta ocasión tan especial, van a donar 550 arboles a ciertas vecindades de Phoenix. El Vecindario de Garfield tiene la gran oportunidad de recibir 200 arboles de este proyecto. 
 
 <Footer/>
