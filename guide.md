@@ -95,7 +95,7 @@ Blue Stake is a free and legally required service that will be performed to loca
 We will contact everyone in early October to confirm the trees you will be receiving. Reminder: We have a limited number of trees and they will be provided on a first come, first served basis.
 
 ## Pick-up and Planting
-Trees can be picked up at the Garfield Community Garden located at [1022 E Garfield St](https://goo.gl/maps/GPhamjwMag4xHzJ38) on Saturday, November 2, between 7am and 12pm.
+Trees can be picked up at the Garfield Community Garden located at [1022 E Garfield St](https://goo.gl/maps/GPhamjwMag4xHzJ38) on Saturday, October 26, between 7am and 12pm.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d416.0840550166744!2d-112.06033062160766!3d33.4578395525165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b13e4c4ee41c1%3A0x8618ef33b7b18eef!2sGarfield+Community+Garden!5e0!3m2!1sen!2sus!4v1566150316405!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
