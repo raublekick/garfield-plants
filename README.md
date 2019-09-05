@@ -37,7 +37,7 @@ The Garfield neighborhood has a unique opportunity to partner with the Sikh Comm
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">En Español</h5>
           <p class="card-text">
-            Something about Spanish speakers...<br/>
+            Haz click aqui para mas informacion en español<br/>
           </p>
           <a class="button mt-auto" href="/es/">En español →</a>
         </div>

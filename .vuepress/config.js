@@ -6,14 +6,14 @@ module.exports = {
         label: "English",
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'About', link: '/about/' },
+          // { text: 'About', link: '/about/' },
           { text: 'Guide', link: '/guide/' },
           { text: 'FAQ', link: '/faq/' },
-          { text: 'Community', link: '/community' },
+          // { text: 'Community', link: '/community' },
         ],
         sidebar: [
           '/',
-          '/about',
+          // '/about',
           '/guide',
           '/bluestake',
           '/faq'
@@ -23,14 +23,14 @@ module.exports = {
         label: "Español",
         nav: [
           { text: 'Home', link: '/es/' },
-          { text: 'About', link: '/es/about' },
+          // { text: 'About', link: '/es/about' },
           { text: 'Guide', link: '/es/guide' },
           { text: 'FAQ', link: '/es/faq/' },
-          { text: 'Community', link: '/es/community' },
+          // { text: 'Community', link: '/es/community' },
         ],
         sidebar: [
           '/es/',
-          '/es/about',
+          // '/es/about',
           '/es/guide',
           '/es/bluestake',
           '/es/faq'
