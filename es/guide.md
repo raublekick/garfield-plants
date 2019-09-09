@@ -111,7 +111,7 @@ También acepta contactar 811 / Arizona Blue Stake (<http://www.azbluestake.com/
 ## Regístrate
 Si estás interesado/a en recibir un árbol gratis, ¡regístrate hoy! También estamos buscando voluntarios para ayudar a entregar y descargar árboles, así como a cavar hoyos para plantar.
 
-<a href='https://docs.google.com/forms/d/e/1FAIpQLSdSvuDttkLXasnhSrp7QOiP7djPwWJ_-DfRNR8BemYqYaoMgQ/viewform?usp=sf_link' target='_blank' class='button'>Regístrate →</a>
+<a href='https://docs.google.com/forms/d/e/1FAIpQLSdALXomGNphDKETxHzmwJW6RSXbVLZv_g4VCPu2Bc3aadtKDA/viewform' target='_blank' class='button'>Regístrate →</a>
 <Footer/>
 <style lang='stylus'>
 .button 

@@ -17,7 +17,7 @@ La vecindad de Garfield tiene una oportunidad unica para asociarse con la Comuni
           <p class="card-text">
             Para inscribirse, haga click aqui:<br/>
           </p>
-          <a href='https://docs.google.com/forms/d/e/1FAIpQLSdSvuDttkLXasnhSrp7QOiP7djPwWJ_-DfRNR8BemYqYaoMgQ/viewform?usp=sf_link' target='_blank' class='button  mt-auto'>Regístrate →</a>
+          <a href='https://docs.google.com/forms/d/e/1FAIpQLSdALXomGNphDKETxHzmwJW6RSXbVLZv_g4VCPu2Bc3aadtKDA/viewform' target='_blank' class='button  mt-auto'>Regístrate →</a>
         </div>
       </div>
     </div>
